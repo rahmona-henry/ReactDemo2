@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # counterGreeter
 
@@ -32,3 +33,6 @@ npm test
 ```
 npm run deploy
 ```
+=======
+# ReactDemo2
+>>>>>>> 55fb17d07014155b4cfdf3363159107327947ce9
