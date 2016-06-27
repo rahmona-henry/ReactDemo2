@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 
 # counterGreeter
 
-it's a real sweet app
+A simple dynamic name greeter app that is built using React.
 
 ## how
 
@@ -10,7 +10,7 @@ it's a real sweet app
 
 ```
 git clone https://github.com/rahmona-henry/counterGreeter
-cd 
+cd
 npm install
 ```
 
